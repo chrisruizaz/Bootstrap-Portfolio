@@ -13,3 +13,8 @@ header h1 {
   width: 960px;
   margin: auto;
 }
+footer {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+}
